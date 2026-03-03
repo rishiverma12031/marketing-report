@@ -1,0 +1,20 @@
+{
+  "name": "marketing-report-generator",
+  "version": "1.0.0",
+  "description": "A CLI tool that validates and processes marketing campaign data from a JSON file, generating a multi-level analytics report with CTR, conversion rates, ROI, and channel-level breakdowns.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "marketing",
+    "analytics",
+    "report",
+    "javascript",
+    "data-validation"
+  ],
+  "author": "Rishi Verma",
+  "license": "MIT"
+}

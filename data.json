@@ -1,0 +1,48 @@
+{
+  "companyName": "Acme Digital",
+  "reportPeriod": "Q1 2025",
+  "currency": "INR",
+  "channels": ["Google Ads", "Instagram", "Email", "Influencer"],
+  "campaigns": [
+    {
+      "id": "CAMP001",
+      "name": "Spring Sale",
+      "channel": "Google Ads",
+      "spend": 120000,
+      "impressions": 500000,
+      "clicks": 18000,
+      "conversions": 900,
+      "revenue": 360000
+    },
+    {
+      "id": "CAMP002",
+      "name": "New Arrivals Launch",
+      "channel": "Instagram",
+      "spend": 80000,
+      "impressions": 400000,
+      "clicks": 25000,
+      "conversions": 1100,
+      "revenue": 420000
+    },
+    {
+      "id": "CAMP003",
+      "name": "Email Re-engagement",
+      "channel": "Email",
+      "spend": 20000,
+      "impressions": 120000,
+      "clicks": 15000,
+      "conversions": 700,
+      "revenue": 210000
+    },
+    {
+      "id": "CAMP004",
+      "name": "Fitness Influencer Push",
+      "channel": "Influencer",
+      "spend": 150000,
+      "impressions": 300000,
+      "clicks": 22000,
+      "conversions": 1300,
+      "revenue": 520000
+    }
+  ]
+}
